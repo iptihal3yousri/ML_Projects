@@ -1,1 +1,1 @@
-# ML_Projects
+#Heart Disease Prediction using KNN algorithm
